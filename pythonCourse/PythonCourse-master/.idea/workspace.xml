@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71eccd33-7d7f-425c-ad02-4395be0f10cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXZuuFgkFt4QMFvsacqlysLR0X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/github/Courses" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Section_06/project_files/first_folder/second_folder" />
+      <recent name="$PROJECT_DIR$/Section_04" />
+      <recent name="$PROJECT_DIR$/Section_07" />
+      <recent name="$PROJECT_DIR$/Section_06" />
+      <recent name="$PROJECT_DIR$/Section_05" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Section_06/project_files/first_folder" />
+      <recent name="$PROJECT_DIR$/Section_06/project_files" />
+      <recent name="$PROJECT_DIR$/Section_01" />
+      <recent name="$PROJECT_DIR$/Section_001" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="AssessmentTest1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyPractissing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyPractissing/AssessmentTest1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_04/Assignment_09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyPractissing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyPractissing/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment_01 (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_05/assignment_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_04/assignment_07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_04/assignment_08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.AssessmentTest1" />
+        <item itemvalue="Python.Assignment_09" />
+        <item itemvalue="Python.assignment_08" />
+        <item itemvalue="Python.assignment_07" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71eccd33-7d7f-425c-ad02-4395be0f10cc" name="Default Changelist" comment="" />
+      <created>1584987624510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584987624510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="28" key="#assignment_01" timestamp="1595966792231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="28" key="#assignment_01/0.0.1536.824@0.0.1536.824" timestamp="1595966792231" />
+    <state x="514" y="28" key="#assignment_01_(1)" timestamp="1595966641294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="28" key="#assignment_01_(1)/0.0.1536.824@0.0.1536.824" timestamp="1595966641294" />
+    <state x="514" y="28" key="#assignment_02" timestamp="1595967055255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="28" key="#assignment_02/0.0.1536.824@0.0.1536.824" timestamp="1595967055255" />
+    <state x="521" y="175" key="EnvironmentVariablesDialog" timestamp="1595967037748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="175" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595967037748" />
+    <state x="568" y="168" key="FileChooserDialogImpl" timestamp="1599072380985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="168" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1599072380985" />
+    <state x="2393" y="139" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1595975819959" />
+    <state x="567" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595967003726" />
+    <state width="1259" height="174" key="GridCell.Tab.0.bottom" timestamp="1597095090813">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1597095090813" />
+    <state width="1515" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596022797673" />
+    <state width="1259" height="174" key="GridCell.Tab.0.center" timestamp="1597095090813">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1597095090813" />
+    <state width="1515" height="150" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596022797672" />
+    <state width="1259" height="174" key="GridCell.Tab.0.left" timestamp="1597095090813">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1597095090813" />
+    <state width="1515" height="150" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596022797671" />
+    <state width="1259" height="174" key="GridCell.Tab.0.right" timestamp="1597095090813">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1597095090813" />
+    <state width="1515" height="150" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596022797673" />
+    <state width="1259" height="174" key="GridCell.Tab.1.bottom" timestamp="1597095090813">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1597095090813" />
+    <state width="1259" height="174" key="GridCell.Tab.1.center" timestamp="1597095090813">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1597095090813" />
+    <state width="1259" height="174" key="GridCell.Tab.1.left" timestamp="1597095090813">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1597095090813" />
+    <state width="1259" height="174" key="GridCell.Tab.1.right" timestamp="1597095090813">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="174" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1597095090813" />
+    <state x="2166" y="0" key="SettingsEditor" timestamp="1595975975620">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2166" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1595975975620" />
+    <state x="295" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595966767964" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1599070600573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1599070600573" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598817398032" />
+    <state x="2223" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1596747728893">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2223" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1596747728893" />
+  </component>
+</project>
